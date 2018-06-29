@@ -1,0 +1,2 @@
+Gamiphy official wordpress template
+_____________________________________
